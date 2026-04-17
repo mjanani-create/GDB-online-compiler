@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner(System.in);
+        int n=sc .nextInt(),a,i;
+        boolean f;
+        for(a=2;a<=n;a++)
+       {
+           f=true;
+           
+           break;
+       }
+       if(f)
+       
